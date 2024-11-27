@@ -1,4 +1,4 @@
-# Implementation of Data Structures and Algorithms 
+# Data Structures and Algorithms
 
 ## Overview
 This repository serves as a record of my studies in Data Structures and Algorithms (DSA). Throughout this repo, I will be using Python and C++ to implement various DSA concepts. My goal is to improve my understanding and skills in this field, and I hope you find it helpful :)
