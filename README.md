@@ -1,1 +1,31 @@
-# Implementation of Data Structures and Algorithms with Python 
+# Implementation of Data Structures and Algorithms 
+
+## Overview
+This repository serves as a record of my studies in Data Structures and Algorithms (DSA). Throughout this repo, I will be using Python and C++ to implement various DSA concepts. My goal is to improve my understanding and skills in this field, and I hope you find it helpful :)
+
+## Data Structures
+
+### 1. Big O Notation
+- [Big O Tips](/Big-O-Tips.md)
+
+### 2. Arrays
+
+### 3. Hash Tables (Dictionaries)
+
+### 4. Linked Lists
+
+### 5. Stacks and Queues
+
+### 6. Trees
+
+### 7. Graphs
+
+## Algorithms 
+
+### 1. Recursion
+
+### 2. Sorting
+
+### 3. Searching, BFS and DFS 
+
+### 4. Dynamic Programming 
