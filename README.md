@@ -9,6 +9,8 @@ This repository serves as a record of my studies in Data Structures and Algorith
 - [Big O Tips](/Big-O-Tips.md)
 
 ### 2. Arrays
+- [Introduction - Python](/Arrays/introduction.py)
+- [Implementation - Python](/Arrays/implementation.py)
 
 ### 3. Hash Tables (Dictionaries)
 
