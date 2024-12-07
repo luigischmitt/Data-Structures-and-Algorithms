@@ -21,7 +21,7 @@ class MyArray:
         self.length -= 1
         return last_item
 
-def delete(self,index):
+    def delete(self,index):
         deleted_item = self.data[index]
         for i in range(index, self.length - 1):
             self.data[i] = self.data[i + 1] 
